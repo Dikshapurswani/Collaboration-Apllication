@@ -1,1 +1,1 @@
-# Collaboration-Apllication
+# Collaboration-Application
